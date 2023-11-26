@@ -1,5 +1,3 @@
-<img src="title.gif" width="500">
-
 Statistical Rethinking (2024 Edition)
 ===============
 
