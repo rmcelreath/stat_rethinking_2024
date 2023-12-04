@@ -17,7 +17,7 @@ Online, flipped instruction. I will pre-record the lectures each week. We'll mee
 
 We'll use the 2nd edition of my book, <[Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/)>, and possibly some draft chapters for the 3rd edition. I'll provide a PDF of the book to enrolled students.
 
-Registration: I will accept registrations at this link up to a cap of 200 people - <[Register](https://forms.gle/3HwkC9zpmaPdTmU79)>
+Registration: Registrations past the cap of 200, but I will leave the form open for waitlist registrations - <[Wait List](https://forms.gle/3HwkC9zpmaPdTmU79)>
 
 # Calendar & Topical Outline
 
